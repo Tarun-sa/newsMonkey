@@ -1,0 +1,58 @@
+{
+"status": "ok",
+"totalResults": 4,
+"articles": [
+{
+"source": {
+"id": "bbc-sport",
+"name": "BBC Sport"
+},
+"author": "BBC Sport",
+"title": "South Africa v India - Cricket - BBC Sport",
+"description": "Find out the in depth batting and bowling figures for South Africa v India in the International Test Match Series on BBC Sport.",
+"url": "https://www.bbc.co.uk/sport/cricket/scorecard/ECKO51799",
+"urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+"publishedAt": "2021-12-30T08:07:25.8678697Z",
+"content": "<table><tr><th>Batter</th><th>How Out</th><th>Bowler</th><th>Runs</th><th>Balls</th><th>4s</th><th>6s</th><th>Mins</th><th>SR</th></tr> <tr><th>Total</th><th>(105.3 overs)</th><th>327all out</th><th… [+10297 chars]"
+},
+{
+"source": {
+"id": "abc-news-au",
+"name": "ABC News (AU)"
+},
+"author": "André Leslie",
+"title": "Ashes 40 for 40: Ashton Agar re-lives his historic debut at Trent Bridge in 2013",
+"description": "Ashton Agar's debut Test score of 98 batting at number 11 in the 2013 Ashes series was both exhilarating and heartbreaking. Nearly a decade on, the all-rounder says it remains one of his most special cricket memories.",
+"url": "http://www.abc.net.au/news/2021-12-30/ashes-40-or-40-ashton-agar-debut-knock/100729642",
+"urlToImage": "https://live-production.wcms.abc-cdn.net.au/ec9a8772b2af978d4c8c7313d89dd023?impolicy=wcms_crop_resize&cropH=720&cropW=1280&xPos=0&yPos=0&width=862&height=485",
+"publishedAt": "2021-12-29T20:10:46Z",
+"content": "The first impression of Ashton Agar is of your archetypal modern cricketer. All in one, he's a calculating off-spin bowler, a useful lower-middle order batter and erudite on camera. This summer he'… [+6437 chars]"
+},
+{
+"source": {
+"id": "espn-cric-info",
+"name": "ESPN Cric Info"
+},
+"author": null,
+"title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+"description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+"url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+"urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+"publishedAt": "2020-04-27T11:41:47Z",
+"content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+},
+{
+"source": {
+"id": "espn-cric-info",
+"name": "ESPN Cric Info"
+},
+"author": null,
+"title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+"description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+"url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+"urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+"publishedAt": "2020-03-30T15:26:05Z",
+"content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+}
+]
+}
